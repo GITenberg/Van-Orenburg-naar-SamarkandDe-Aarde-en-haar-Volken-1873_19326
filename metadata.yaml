@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34576
     wikipedia: http://en.wikipedia.org/wiki/Vasily_Vereshchagin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19326#Van-Orenburg-naar-SamarkandDe-Aarde-en-haar-Volken-1873
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2006-09-19'
 gutenberg_type: Text
