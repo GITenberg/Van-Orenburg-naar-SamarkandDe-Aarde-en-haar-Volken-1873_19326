@@ -1,0 +1,39 @@
+_repo: Van-Orenburg-naar-SamarkandDe-Aarde-en-haar-Volken-1873_19326
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vereshchagin, Vasilïĭ Vasilʹevich
+    aliases:
+    - Vereshchagin, Vasily Vasilyevich
+    - Werestchagin, W. W.
+    - Верещагин, Василий Васильевич
+    - Vereschagin, Vassili Vassilievich
+    - Wereschtschagin, Wassili
+    - Vereshchagin, Vasili Vasilievich
+    - Verestchagin, Basil
+    - Vereshchagin, Vasilii Vasilevich
+    birthdate: 1842
+    deathdate: 1904
+    gutenberg_agent_id: '34576'
+    url: http://www.gutenberg.org/2009/agents/34576
+    wikipedia: http://en.wikipedia.org/wiki/Vasily_Vereshchagin
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19326'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asia, Central -- Description and travel'
+- !lcc 'DK'
+title: 'Van Orenburg naar Samarkand
+
+  De Aarde en haar Volken, 1873'
+url: http://www.gutenberg.org/ebooks/19326
